@@ -1,0 +1,20 @@
+p Nosotros_los_Pobres Drama 4.750000 2.160000
+p Your_Name Romance 4.900000 2.110000
+s Once_Upon_a_Time Fantasia 4.400000
+- Pilot 1 0.750000
+- La_manzana_envenenada 1 0.750000
++
+s Velvet Drama 4.375000
+- La_costurera 1 1.250000
+- Mentiras_Piadosas 1 1.250000
++
+p Ustedes,_los_Ricos Drama 4.400000 2.160000
+p Matrix Accion 4.900000 3.000000
+s Hora_de_Aventura Cartoon 4.990000
+- La_casa_del_arbol 1 0.100000
++
+s Devilman_Crybaby Accion 4.237500
+- Yo_soy_tu_vecino 1 0.330000
+- Te_necesito 1 0.330000
+- El_dolor_de_la_soledad 1 0.330000
++
